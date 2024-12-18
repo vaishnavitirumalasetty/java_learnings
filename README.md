@@ -1,1 +1,1 @@
-# java_learnings
+# java-hello-world
